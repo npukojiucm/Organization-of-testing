@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/prefer-default-export
 export const paymentSystems = {
   2: 'mir',
   30: 'diners-club',
