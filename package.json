@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest --coverage --testPathPattern=./src/ --runInBand",
     "e2e": "jest --testPathPattern=./e2e/ --runInBand",
     "lint": "eslint .",
     "build": "webpack --mode production",

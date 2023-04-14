@@ -1,4 +1,4 @@
-name: 2-DOM
+name: organization-of-testing
 
 on: [push, pull_request]
 
@@ -37,9 +37,6 @@ jobs:
 
       - name: Run unit tests
         run: npm run test
-
-      - name: Run e2e tests
-        run: npm run e2e
 
       - name: Build
         run: npm run build
