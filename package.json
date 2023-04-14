@@ -1,5 +1,5 @@
 {
-  "name": "2-DOM",
+  "name": "Organization-of-testing",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/npukojiucm/2-DOM.git"
+    "url": "git+https://github.com/npukojiucm/Organization-of-testing"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/npukojiucm/2-DOM.git/issues"
+    "url": "https://github.com/npukojiucm/Organization-of-testing/issues"
   },
-  "homepage": "https://github.com/npukojiucm/2-DOM.git#readme",
+  "homepage": "https://github.com/npukojiucm/Organization-of-testing#readme",
   "devDependencies": {
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",
@@ -38,6 +38,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
+    "@jest/globals": "^29.5.0",
     "core-js": "^3.27.2"
   }
 }

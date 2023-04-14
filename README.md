@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/tl78sp394umbnen9?svg=true)](https://ci.appveyor.com/project/npukojiucm/organization-of-testing)
+[![Build status](https://ci.appveyor.com/api/projects/status/tl78sp394umbnen9/branch/main?svg=true)](https://ci.appveyor.com/project/npukojiucm/organization-of-testing/branch/main)
 ![CI](https://github.com/npukojiucm/Organization-of-testing/actions/workflows/web.yml/badge.svg)
 
 
